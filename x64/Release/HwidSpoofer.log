@@ -1,0 +1,15 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+C:\Users\msi\source\repos\HwidSpoofer\HwidSpoofer\main.cpp(18,1): warning C4005: '_WIN32_WINNT': makro yeniden tanımlama
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\sdkddkver.h(218): message : önceki '_WIN32_WINNT' tanımına bakın
+  Kod üretiliyor
+  Previous IPDB not found, fall back to full compilation.
+  All 1424 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Kodun üretilmesi tamamlandı
+  HwidSpoofer.vcxproj -> C:\Users\msi\source\repos\HwidSpoofer\x64\Release\HwidSpoofer.exe
